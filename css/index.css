@@ -1,0 +1,139 @@
+@import url(https://fonts.googleapis.com/css?family=Didact+Gothic|Comfortaa:400,700&subset=latin,cyrillic);
+* {
+  background-image: url(all.jpg);
+}
+a {
+  color: #999999;
+  text-decoration: none;
+}
+a:hover {
+  color: #6524ce;
+  text-decoration: underline;
+}
+.foto {
+  width: 350px;
+  height: 350px;
+  background-image: url(kittylogo.jpg);
+  background-repeat: no-repeat;
+}
+.greet {
+  font-family: "Comfortaa", cursive;
+  font-size: 25px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  color: #eae3e2;
+  font-weight: bold;
+}
+.greettable {
+  width: 1305px;
+  text-align: center;
+}
+
+.introduction {
+  height: 150px;
+  font-family: "Comfortaa", cursive;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #eae3e2;
+  font-weight: bold;
+  margin-top: 60px;
+}
+
+.homework {
+  width: 550px;
+  height: 550px;
+  background-image: url(nomework.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  transition: 1s;
+}
+.homework:hover {
+  transform: scale(1.2);
+}
+
+.doit1 {
+  font-family: "Didact Gothic", sans-serif;
+  color: #999999;
+  font-size: 25px;
+  font-weight: bold;
+  align-items: center;
+  margin-top: 490px;
+  margin-left: 90px;
+}
+
+.cool {
+  width: 550px;
+  height: 550px;
+  background-image: url(end.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  transition: 1s;
+}
+.cool:hover {
+  transform: scale(1.2);
+}
+
+.doit2 {
+  font-family: "Didact Gothic", sans-serif;
+  color: #999999;
+  font-size: 25px;
+  font-weight: bold;
+  align-items: center;
+  margin-top: 500px;
+  margin-left: 50px;
+}
+
+.procrastination {
+  width: 550px;
+  height: 550px;
+  background-image: url(procrastination.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  transition: 1s;
+}
+.procrastination:hover {
+  transform: scale(1.2);
+}
+
+.sleep {
+  width: 550px;
+  height: 550px;
+  background-image: url(sleep.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  transition: 1s;
+}
+.sleep:hover {
+  transform: scale(1.2);
+}
+
+.eat {
+  width: 550px;
+  height: 550px;
+  background-image: url(eatkitty.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  transition: 1s;
+}
+.eat:hover {
+  transform: scale(1.2);
+}
+
+.medic {
+  width: 550px;
+  height: 550px;
+  background-image: url(medic.jpg);
+  background-repeat: no-repeat;
+  background-position: top;
+  transition: 1s;
+}
+.medic:hover {
+  transform: scale(1.2);
+}
+
+.foot {
+  font-family: "Didact Gothic", sans-serif;
+  color: #999999;
+  font-size: 20px;
+}
